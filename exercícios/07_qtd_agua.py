@@ -1,3 +1,7 @@
+#Altere o programa anterior para considerar a quantidade de garrafas de água
+
+
+
 texto = """Escolha a sua garrafa de água:
 1 - Garrafa de água natural - R$ 1,50
 2 - Garrafa de água com gás - R$ 2,50

@@ -1,3 +1,8 @@
+#Faça um programa que exiba o dobro de um número
+#inserido pelo usuário.
+
+
+
 numero = input("Entre com um numero para dobrarmos: ")
 numero = int(numero)
 
